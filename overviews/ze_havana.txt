@@ -1,0 +1,14 @@
+// overview description file for ze_havana.bsp
+
+global 
+{
+	ZOOM	0.91
+	ORIGIN	-256	-64	0
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/ze_havana.bmp"
+	HEIGHT	0
+}
