@@ -1,0 +1,3 @@
+2
+weapon      640 skill_m_large 0 0 128 32
+weapon_s    640 skill_m_large 0 0 128 32
