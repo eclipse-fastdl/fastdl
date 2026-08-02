@@ -1,0 +1,17 @@
+// overview description file for ze_skyland.bsp
+
+global 
+{
+	ZOOM	-0.99
+	ORIGIN	0 0 512
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/ze_skyland.bmp"
+	HEIGHT	-1040
+}
+
+
+ Overview: Zoom -0.99, Map Origin (0.00, 0.00, 512.00), Z Min 2065.00, Z Max -1040.00, Rotated 0
