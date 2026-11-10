@@ -1,0 +1,8 @@
+6
+weapon		640	PaXaN/640hud53	0	0	170	45
+weapon_s	640	PaXaN/640hud53	0	45	170	45
+ammo		640	PaXaN/640hud7		232	180	24	24
+crosshair	640	crosshairs	24	0	24	24
+autoaim		640	crosshairs	0	72	24	24
+zoom		640 	PaXaN/sniper_at4ex	0	0	512	512
+zoom_autoaim	640 	PaXaN/sniper_at4ex	0	0	512	512
