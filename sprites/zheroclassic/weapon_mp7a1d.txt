@@ -1,0 +1,5 @@
+3
+weapon		640 zheroclassic/zhero_items	340	0	170	45
+weapon_s		640 zheroclassic/zhero_items	340	45	170	45
+ammo			640 zheroclassic/zhero_items	170	180	24	24
+

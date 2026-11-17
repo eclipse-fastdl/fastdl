@@ -1,0 +1,6 @@
+5
+weapon			640 zheroclassic/thunderbolt	0	0	170	45
+weapon_s		640 zheroclassic/thunderbolt	0	45	170	45
+ammo			640 zheroclassic/thunderbolt	170	0	24	24
+zoom			640 zheroclassic/thunderbolt	256	256	256	256
+zoom_autoaim			640 zheroclassic/thunderbolt	256	256	256	256

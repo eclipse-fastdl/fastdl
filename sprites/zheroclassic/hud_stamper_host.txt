@@ -1,0 +1,3 @@
+2
+weapon			640 zheroclassic/zombie_huds   396 	348 	99 	116
+weapon_s		640 zheroclassic/zombie_huds   396 	348 	99 	116
